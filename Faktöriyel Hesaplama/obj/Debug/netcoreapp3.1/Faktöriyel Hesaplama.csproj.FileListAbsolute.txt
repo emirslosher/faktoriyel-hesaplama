@@ -1,0 +1,16 @@
+C:\Users\Emirhan\Desktop\Bilişim Örneklerim\Faktöriyel Hesaplama\Faktöriyel Hesaplama\bin\Debug\netcoreapp3.1\Faktöriyel Hesaplama.exe
+C:\Users\Emirhan\Desktop\Bilişim Örneklerim\Faktöriyel Hesaplama\Faktöriyel Hesaplama\bin\Debug\netcoreapp3.1\Faktöriyel Hesaplama.deps.json
+C:\Users\Emirhan\Desktop\Bilişim Örneklerim\Faktöriyel Hesaplama\Faktöriyel Hesaplama\bin\Debug\netcoreapp3.1\Faktöriyel Hesaplama.runtimeconfig.json
+C:\Users\Emirhan\Desktop\Bilişim Örneklerim\Faktöriyel Hesaplama\Faktöriyel Hesaplama\bin\Debug\netcoreapp3.1\Faktöriyel Hesaplama.runtimeconfig.dev.json
+C:\Users\Emirhan\Desktop\Bilişim Örneklerim\Faktöriyel Hesaplama\Faktöriyel Hesaplama\bin\Debug\netcoreapp3.1\Faktöriyel Hesaplama.dll
+C:\Users\Emirhan\Desktop\Bilişim Örneklerim\Faktöriyel Hesaplama\Faktöriyel Hesaplama\bin\Debug\netcoreapp3.1\Faktöriyel Hesaplama.pdb
+C:\Users\Emirhan\Desktop\Bilişim Örneklerim\Faktöriyel Hesaplama\Faktöriyel Hesaplama\obj\Debug\netcoreapp3.1\Faktöriyel Hesaplama.csproj.AssemblyReference.cache
+C:\Users\Emirhan\Desktop\Bilişim Örneklerim\Faktöriyel Hesaplama\Faktöriyel Hesaplama\obj\Debug\netcoreapp3.1\Faktöriyel_Hesaplama.Form1.resources
+C:\Users\Emirhan\Desktop\Bilişim Örneklerim\Faktöriyel Hesaplama\Faktöriyel Hesaplama\obj\Debug\netcoreapp3.1\Faktöriyel Hesaplama.csproj.GenerateResource.cache
+C:\Users\Emirhan\Desktop\Bilişim Örneklerim\Faktöriyel Hesaplama\Faktöriyel Hesaplama\obj\Debug\netcoreapp3.1\Faktöriyel Hesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emirhan\Desktop\Bilişim Örneklerim\Faktöriyel Hesaplama\Faktöriyel Hesaplama\obj\Debug\netcoreapp3.1\Faktöriyel Hesaplama.AssemblyInfoInputs.cache
+C:\Users\Emirhan\Desktop\Bilişim Örneklerim\Faktöriyel Hesaplama\Faktöriyel Hesaplama\obj\Debug\netcoreapp3.1\Faktöriyel Hesaplama.AssemblyInfo.cs
+C:\Users\Emirhan\Desktop\Bilişim Örneklerim\Faktöriyel Hesaplama\Faktöriyel Hesaplama\obj\Debug\netcoreapp3.1\Faktöriyel Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan\Desktop\Bilişim Örneklerim\Faktöriyel Hesaplama\Faktöriyel Hesaplama\obj\Debug\netcoreapp3.1\Faktöriyel Hesaplama.dll
+C:\Users\Emirhan\Desktop\Bilişim Örneklerim\Faktöriyel Hesaplama\Faktöriyel Hesaplama\obj\Debug\netcoreapp3.1\Faktöriyel Hesaplama.pdb
+C:\Users\Emirhan\Desktop\Bilişim Örneklerim\Faktöriyel Hesaplama\Faktöriyel Hesaplama\obj\Debug\netcoreapp3.1\Faktöriyel Hesaplama.genruntimeconfig.cache
